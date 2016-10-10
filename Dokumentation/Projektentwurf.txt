@@ -29,3 +29,33 @@ Der Arbeitsbereich besteht aus:
 	-Wertetabelle
 	-Diagramm
 	-Generiere PDF
+	
+===================================
+=== Feedback Alpers, 2016-10-10 ===
+===================================
+
+=== 1.) Inhaltliches Feedback ===
+
+1.1.) Das ist als Grundlage für einen reinen Schaltungsentwurf gut.
+
+1.2.) Versuchen Sie (neben der Arbeit an der strukt.txt) zusätzlich noch Möglichkeiten zu erarbeiten, damit die Teamarbeit bzw. die Zusammenarbeit mit anderen Kommilitonen unterstützt wird.
+
+1.3.) Drag & Drop wird mit den Möglichkeiten, die Sie im Rahmen des Projekts haben nicht möglich sein. Überlegen Sie sich etwas anderes.
+
+1.4.) Aktuell unterstützt Ihr Entwurf lediglich den Aufbau der Schaltung. Überlegen Sie sich, was dabei hilfreich sein könnte.
+
+1.5.) Inhaltliches Detail: Im konkreten Fall müssen die Studierenden nichts berechnen, von daher wäre die Werteliste nicht nötig, aber lassen Sie sie ruhig drin. Das sieht nach einer sinnvollen Erweiterung aus.
+
+=== 2.) Adaption ===
+
+Dieser Teil fehlt leider noch.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 3 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 3 (knapp und klar, aber bislang noch recht wenig)
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 0
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.:
+- Designaspekte -5 bis 0 Pk.:
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.:
