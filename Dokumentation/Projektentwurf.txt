@@ -1,4 +1,44 @@
 ==========================================
+=== Schaltungsentwurf, v_2, 2016-10-23 ===
+==========================================
+
+//Startbildschirm
+Das Grundprinzip der Anwendung ist eine Software mit der man gemeinsam mit seinem Laborpartner*in Schaltungen entwerfen kann. 
+Die Anwendung besteht aus einem Startmenü in dem man sich anmeldet bzw. registriert.
+Bei der Registrierung wird man auf ein externes Fenster verwiesen. 
+Nach der Anmeldung gelangt man zum Arbeitsbereich.
+
+
+
+//Arbeitsbereich
+
+Der Arbeitsbereich besteht aus:
+
+- einer Arbeitsfläche
+	zur genaueren Platzierung der Module hat die Arbeitsfläche ein Karoraster
+
+- einer Werteliste
+	-Auswahl der zu berechnenden Werte
+	-Anzeige der berechneten Werte
+
+- einer Modulliste
+	Per drag & drop kann man Module aus der Liste auf der Arbtsfläche platzieren 
+	(Mir ist bis jetzt noch keine Alternative eingefallen, aber ich werde mir weiter Gedanken machen)
+
+- Dropdown-Menü mit folgenden Befehlen:
+	-Speichern
+	-Wertetabelle
+	-Diagramm
+	-Generiere PDF
+
+- Chat und Voice Chat
+
+- Es wird angezeigt ob aktuel noch jemand anderes das Projekt bearbeitet
+
+- Anzeige ob Schaltung geschlossen
+
+
+==========================================
 === Schaltungsentwurf, v_1, 2016-10-09 ===
 ==========================================
 
