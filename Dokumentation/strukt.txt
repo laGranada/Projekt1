@@ -1,0 +1,25 @@
+== 01 Schaltflächen ==
+01_01 Modul1 / Nutzer greift an
+01_02 Modul2 / Charakter geht nach links
+01_03 Modul3 / Charakter geht nach links
+01_07 VoiceChat / Starte Voice Chat
+
+== 02 Hyperlink ==
+02_01 ...
+
+== 03 Auswahllisten ==
+03_01 Speichern / Datei wird gespeichert
+03_02 Wertetabelle
+03_03 Diagramm
+03_04 Generiere PDF / PDF Datei wird erstellt
+
+== 102 input/submit ==
+102_01 submit
+102_02 send / Nachricht wird verschickt
+
+== 103 input/text ==
+103_01 type=text / Eingabe des Nutzernamens
+103_02 type=text / Eingabe der chat Nachricht
+
+== 105 input/password ==
+105_01 type=password / Eingabe des Passworts
