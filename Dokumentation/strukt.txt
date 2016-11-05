@@ -1,25 +1,30 @@
 == 01 Schaltflächen ==
-01_01 Modul1 / Nutzer greift an
-01_02 Modul2 / Charakter geht nach links
-01_03 Modul3 / Charakter geht nach links
+01_01 Modul1 / 
+01_02 Modul2 / 
+01_03 Modul3 / 
 01_07 VoiceChat / Starte Voice Chat
+01_08 Chat / Starte Chat
 
 == 02 Hyperlink ==
-02_01 ...
+02_01 Registrieren / führt zum Registrierformulae
 
 == 03 Auswahllisten ==
 03_01 Speichern / Datei wird gespeichert
-03_02 Wertetabelle
-03_03 Diagramm
+03_02 Wertetabelle / Erstellt eine Wertetabelle
+03_03 Diagramm / Erstellt ein Diagramm
 03_04 Generiere PDF / PDF Datei wird erstellt
 
 == 102 input/submit ==
-102_01 submit
-102_02 send / Nachricht wird verschickt
+102_01 login
+102_02 registrieren
+102_03 send / Nachricht wird verschickt
 
 == 103 input/text ==
 103_01 type=text / Eingabe des Nutzernamens
 103_02 type=text / Eingabe der chat Nachricht
+
+== 104 input/E-mail ==
+103_01 type=E-mail / Eingabe der E-mail
 
 == 105 input/password ==
 105_01 type=password / Eingabe des Passworts
