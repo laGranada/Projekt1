@@ -44,6 +44,19 @@ Auf dem Startbildschirm kann man sich anmelden bzw. registrieren.
 Bei der Registrierung wird man auf ein externes Fenster verwiesen.
 Nach der Anmeldung öffnet sich der Arbeitsbereich.
 
+Datei:
+- Datei Speichern
+- Datei als PDF generieren
+
+Extras:
+- Berechnung verschiedener Werte
+- Wertetabellen erstellen
+- Diagramme erstellen
+
+Chat:
+- Voice Chat starten
+- Nachrichten verschicken
+
 ==========================================
 === Schaltungsentwurf, v_2, 2016-10-23 ===
 ==========================================
