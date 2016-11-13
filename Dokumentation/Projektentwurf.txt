@@ -1,4 +1,41 @@
 ==========================================
+=== Schaltungsentwurf, v_3, 2016-11-13 ===
+==========================================
+
+// Inhalt
+
+Login:
+- Eingabefelder
+-- für Nutzername
+-- für Passwort
+
+Arbeitsfläche:
+- Karoraster
+
+Informationsleiste:
+- Anzeige ob Schaltung geschlossen
+- berechnete Werte
+- Wertetabelle
+- Diagramm
+- Anzeige ob aktuel noch jemand anderes das Projekt bearbeitet
+
+Chat:
+- Eingabefeld für Nachricht
+- Anzeige des Chatverlaufs
+
+Modulliste:
+-Auswahl verschiedener Module
+
+Auswahllisten:
+- Extras
+-- Speichern
+-- Generiere PDF
+
+
+
+// Abläufe und Funktionalitäten
+
+==========================================
 === Schaltungsentwurf, v_2, 2016-10-23 ===
 ==========================================
 
