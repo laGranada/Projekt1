@@ -37,8 +37,12 @@ Auswahllisten:
 --- Werte Auswahl
 
 
-
 // Abläufe und Funktionalitäten
+
+--Startbildschirm--
+Auf dem Startbildschirm kann man sich anmelden bzw. registrieren.
+Bei der Registrierung wird man auf ein externes Fenster verwiesen.
+Nach der Anmeldung öffnet sich der Arbeitsbereich.
 
 ==========================================
 === Schaltungsentwurf, v_2, 2016-10-23 ===
