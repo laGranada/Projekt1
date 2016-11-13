@@ -22,6 +22,8 @@ Informationsleiste:
 Chat:
 - Eingabefeld für Nachricht
 - Anzeige des Chatverlaufs
+- Nachricht senden
+- Voice Chat starten
 
 Modulliste:
 -Auswahl verschiedener Module
@@ -30,7 +32,7 @@ Auswahllisten:
 - Datei
 -- Speichern
 -- Generiere PDF
--Extras
+- Extras
 -- Wertetabelle
 -- Diagramm
 -- Rechner
@@ -56,6 +58,10 @@ Extras:
 Chat:
 - Voice Chat starten
 - Nachrichten verschicken
+
+Module:
+- Per click & drop platziert man die Module auf der Arbtsfläche
+
 
 ==========================================
 === Schaltungsentwurf, v_2, 2016-10-23 ===
