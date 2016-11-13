@@ -27,9 +27,14 @@ Modulliste:
 -Auswahl verschiedener Module
 
 Auswahllisten:
-- Extras
+- Datei
 -- Speichern
 -- Generiere PDF
+-Extras
+-- Wertetabelle
+-- Diagramm
+-- Rechner
+--- Werte Auswahl
 
 
 
